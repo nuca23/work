@@ -1,0 +1,54 @@
+*
+.body{
+   background-color: #FFFFFF;
+}
+.main-box{
+    box-sizing: border-box;
+    width: 562px;
+    height: 818px;
+    background: #FAFAFA;
+    border: 1px solid #DCDCDC;
+    border-radius: 20px;  
+}
+.img{
+    width: 237.95px;
+    height: 184.57px;
+    background: url(BB); 
+}
+   h1{
+    width: 273px;
+    height: 40px;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 30px;
+    line-height: 36px;
+    color: #000000;
+    }
+ p{
+width: 443px;
+height: 311px;
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 19px;
+line-height: 23px;
+color: #000000;
+}
+ .container1{
+    width: 109px;
+    height: 25px;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 24px;
+    color: #5076FF;
+     text-align: right;
+ }
+
+
+
+
+
+
